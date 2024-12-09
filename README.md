@@ -1,4 +1,5 @@
-##Overview
+## Overview
+---
 - Welcome to the Backend API for Your E-Commerce Platform!
 - This Node.js API serves as the backbone of a powerful and dynamic e-commerce website. From managing products to handling user authentication and orders, this API is built to provide a seamless shopping experience.
 - Security First: With JSON Web Tokens (JWT) securing the authentication system, your data and operations remain protected at all times.
