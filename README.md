@@ -23,4 +23,3 @@
 -Efficiently manage user shopping carts, including adding, updating, and removing items.
 -Provide real-time cart calculations for a hassle-free shopping experience.
 
----
