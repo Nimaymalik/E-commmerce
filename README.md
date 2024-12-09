@@ -6,7 +6,7 @@
 ---
 
 ## Key Features 🚀
-
+---
 **Product Management**
 -Perform Create, Read, Update, and Delete (CRUD) operations to handle the complete product lifecycle with ease.
 -Add detailed product descriptions, images, and pricing for an engaging shopping experience.
@@ -22,6 +22,8 @@
 **Cart Management**
 -Efficiently manage user shopping carts, including adding, updating, and removing items.
 -Provide real-time cart calculations for a hassle-free shopping experience.
+
+---
 
 
 ##Authentication
