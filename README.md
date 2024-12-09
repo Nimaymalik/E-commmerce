@@ -24,8 +24,3 @@
 -Provide real-time cart calculations for a hassle-free shopping experience.
 
 ---
-
-
-##Authentication
-
-For protected routes, include the JWT token in the Authorization header of your HTTP request using the Bearer scheme.
